@@ -1,0 +1,11 @@
+.header__cheesright {
+    /* width: 113px; */
+    height: 252px;
+    background: url('../../images/headerchessright.svg') no-repeat center / contain;
+    margin: -540px 435px 270px 1311px;
+}
+
+.header__cheesright-container {
+    position: relative;
+    z-index: 1;
+}

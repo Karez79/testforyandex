@@ -1,0 +1,5 @@
+.header {
+    height: 700px;
+    background: url(../../images/bgheader.png) no-repeat center/cover;
+    position: relative;
+}

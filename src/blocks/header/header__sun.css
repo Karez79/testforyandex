@@ -1,0 +1,12 @@
+.header__sun {
+    background: url('../../images/sunheader.png') no-repeat center / cover;
+    height: 660px;
+    width: 660px;
+    z-index: 1;
+    margin: -66px 0 0 916px;
+}
+
+.header__sun-container {
+    position: relative;
+    z-index: 1;
+}

@@ -1,0 +1,11 @@
+.header__cheesleft{
+    height: 256px;
+    background: url(../../images/headershessleft.svg) no-repeat center / contain;
+    margin: -411px 783px 164px 963px;
+    overflow: hidden;
+}
+
+.header__cheesleft-container {
+    position: relative;
+    z-index: 1;
+}

@@ -1,0 +1,13 @@
+.header__sity{
+    width: 1627px;
+    height: 464px;
+    background: url('../../images/sityheader.png') no-repeat center / contain;
+    z-index: 2;
+    margin: -412px 135px 0 140px;
+    overflow: hidden;
+}
+
+.header__sity-container {
+    position: relative;
+    z-index: 2;
+}
